@@ -1,0 +1,34 @@
+{
+  "name": "resam",
+  "version": "1.0.0",
+  "description": "A easy-to-deploy resource management backend utility.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nileshthakur2003/resam.git"
+  },
+  "keywords": [
+    "res",
+    "resam",
+    "resources",
+    "photos",
+    "videos",
+    "files"
+  ],
+  "author": "Nilesh Thakur",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nileshthakur2003/resam/issues"
+  },
+  "homepage": "https://github.com/Nileshthakur2003/resam#readme",
+  "devDependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2"
+  }
+}
